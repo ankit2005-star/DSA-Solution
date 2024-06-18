@@ -25,7 +25,9 @@ public class ReverseEachWord {
 
         }
         System.out.println(ans);
+        scanner.close();
+        }
        
     }
     
-}
+

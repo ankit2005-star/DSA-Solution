@@ -27,6 +27,7 @@
 
 		 }
 		if(n!=2) System.out.print(ans);
+		s.close();
  
  }
  

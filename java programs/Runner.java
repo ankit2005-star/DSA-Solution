@@ -53,7 +53,7 @@ public class Runner{
 
             t--;
         }
-
+        sr.close();
     }
 
 }

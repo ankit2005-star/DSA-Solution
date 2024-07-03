@@ -26,5 +26,6 @@ public class checkPermutation {
         System.out.println("Enter the second string");
         str2 = scanner.nextLine();
         System.out.println(check_Permutation(str1,str2));
+        scanner.close();
     }
 }

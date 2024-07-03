@@ -18,6 +18,7 @@ public class ReverseString {
         String str =  sr.nextLine();
         String reverseString = reverseString(str);
         System.out.println(reverseString);
+        sr.close();
 
     }
     

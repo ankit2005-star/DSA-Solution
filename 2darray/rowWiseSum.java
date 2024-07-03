@@ -4,7 +4,7 @@ public class rowWiseSum {
     //taking input of the array 
     public static void takeInput(int arr[][],Scanner scanner){
          for(int j = 0 ; j < arr.length ; j++){
-             System.out.print("Enter the elements of in " +(j)  + " th row : ");
+             System.out.print("Enter the elements of in " + j + " th row : ");
 
                  for(int k = 0 ; k < arr[0].length; k++){
         

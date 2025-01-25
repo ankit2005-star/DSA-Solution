@@ -1,0 +1,19 @@
+{
+  "java.project.sourcePaths": [
+    "sorting/cyclicSortProblems",
+    "recursion",
+    "patterns",
+    "java programs",
+    "classeAndObject/classandobject/src",
+    "bitwiseOperator/src/com/ankit/bitwiseOperator",
+    "array",
+    "String",
+    "2darray",
+    "Maths",
+    "class and object\\classandobject\\src",
+    "LL"
+  ],
+  "java.project.referencedLibraries": [],
+  "java.debug.settings.onBuildFailureProceed": true,
+  "java.debug.settings.showHex": false
+}

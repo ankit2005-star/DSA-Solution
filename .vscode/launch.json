@@ -6,6 +6,174 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Recursion",
+      "request": "launch",
+      "mainClass": "Recursion",
+      "projectName": "Dsa solution_d9f5f2ff"
+    },
+    {
+      "type": "java",
+      "name": "isSortedArray",
+      "request": "launch",
+      "mainClass": "recursionOnArray.isSortedArray",
+      "projectName": "Dsa solution_d9f5f2ff"
+    },
+    {
+      "type": "java",
+      "name": "MergeSort",
+      "request": "launch",
+      "mainClass": "MergeSort",
+      "projectName": "Dsa solution_d9f5f2ff"
+    },
+    {
+      "type": "java",
+      "name": "StairCaseSearch",
+      "request": "launch",
+      "mainClass": "StairCaseSearch",
+      "projectName": "Dsa solution_d9f5f2ff"
+    },
+    {
+      "type": "java",
+      "name": "SpiralMatrix",
+      "request": "launch",
+      "mainClass": "SpiralMatrix",
+      "projectName": "Dsa solution_d9f5f2ff"
+    },
+    {
+      "type": "java",
+      "name": "MaxSubarraySum",
+      "request": "launch",
+      "mainClass": "MaxSubarraySum",
+      "projectName": "Dsa solution_d9f5f2ff"
+    },
+    {
+      "type": "java",
+      "name": "GcdAndLcm",
+      "request": "launch",
+      "mainClass": "GcdAndLcm",
+      "projectName": "Dsa solution_d9f5f2ff"
+    },
+    {
+      "type": "java",
+      "name": "Subarray",
+      "request": "launch",
+      "mainClass": "Subarray",
+      "projectName": "Dsa solution_d9f5f2ff"
+    },
+    {
+      "type": "java",
+      "name": "subarray",
+      "request": "launch",
+      "mainClass": "subarray",
+      "projectName": "Dsa solution_d9f5f2ff"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "com.ankit.LinkedList.Main",
+      "projectName": "Dsa solution_d9f5f2ff"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "Main",
+      "projectName": "Dsa solution_d9f5f2ff"
+    },
+    {
+      "type": "java",
+      "name": "Gcd",
+      "request": "launch",
+      "mainClass": "Gcd",
+      "projectName": "Dsa solution_d9f5f2ff"
+    },
+    {
+      "type": "java",
+      "name": "Sqrt",
+      "request": "launch",
+      "mainClass": "Sqrt",
+      "projectName": "Dsa solution_d9f5f2ff"
+    },
+    {
+      "type": "java",
+      "name": "Isprime",
+      "request": "launch",
+      "mainClass": "Isprime",
+      "projectName": "Dsa solution_d9f5f2ff"
+    },
+    {
+      "type": "java",
+      "name": "xorTillN",
+      "request": "launch",
+      "mainClass": "xorTillN",
+      "projectName": "Dsa solution_d9f5f2ff"
+    },
+    {
+      "type": "java",
+      "name": "xorttillN",
+      "request": "launch",
+      "mainClass": "xorttillN",
+      "projectName": "Dsa solution_d9f5f2ff"
+    },
+    {
+      "type": "java",
+      "name": "xorttillN",
+      "request": "launch",
+      "mainClass": "com.ankit.bitwiseOperator.xorttillN",
+      "projectName": "Dsa solution_d9f5f2ff"
+    },
+    {
+      "type": "java",
+      "name": "xorTillN",
+      "request": "launch",
+      "mainClass": "com.ankit.bitwiseOperator.xorTillN",
+      "projectName": "Dsa solution_d9f5f2ff"
+    },
+    {
+      "type": "java",
+      "name": "countSetBit",
+      "request": "launch",
+      "mainClass": "com.ankit.bitwiseOperator.countSetBit",
+      "projectName": "Dsa solution_d9f5f2ff"
+    },
+    {
+      "type": "java",
+      "name": "Pow",
+      "request": "launch",
+      "mainClass": "com.ankit.bitwiseOperator.Pow",
+      "projectName": "Dsa solution_d9f5f2ff"
+    },
+    {
+      "type": "java",
+      "name": "Pow",
+      "request": "launch",
+      "mainClass": "com.ankit.bitwiseOperator.bitwiseOperator.src.com.ankit.bitwiseOperator.Pow",
+      "projectName": "Dsa solution_d9f5f2ff"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "Triangle",
+      "projectName": "Dsa solution_d9f5f2ff"
+    },
+    {
+      "type": "java",
+      "name": "combinationSum",
+      "request": "launch",
+      "mainClass": "combinationSum",
+      "projectName": "Dsa solution_d9f5f2ff"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "classesandobjects.Main",
+      "projectName": "Dsa solution_d9f5f2ff"
+    },
+    {
+      "type": "java",
       "name": "stringToInteger",
       "request": "launch",
       "mainClass": "stringToInteger",

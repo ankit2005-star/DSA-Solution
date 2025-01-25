@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class shuffleString {
      public static String restoreString(String s, int[] indices) {
-        String result = new String()
+        String result = new String();
         for(int i =0;i< indices.length;i++){
             result[indices[i]] = s.charAt(i);
         }

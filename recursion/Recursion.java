@@ -91,8 +91,8 @@ public class Recursion {
 
             public static int contString(String str1 ){
                 if(str1.equals("")) return 0;
-                  int ans = printComb(str1);
-                return ans +  contString(str1.substring(0,str1.length()-1));
+                 
+                return  printComb(str1)+  contString(str1.substring(0,str1.length()-1));
               
 
             }
@@ -104,11 +104,27 @@ public class Recursion {
                 return 1 + printComb(str.substring(0,str.length()-1));
                return  printComb(str.substring(0,str.length()-1));
             }
-             
+             //tower of hanoi
+             public static void towerOfHanoi(int n , String A , String B , String C){
+                if(n==1){
+                    System.out.println("transfer disk " + n + " from " + A + " to " + C);
+                    return ;
+                }
+                towerOfHanoi(n-1,A,C,B);
+                System.out.println("transfer disk " + n + " from " +A + " to " + C );
+                towerOfHanoi(n-1, B,A,C);       
+                                
+
+                 
+
+                
+              
+            
+            }
     public static void main(String[] args)
     {
            
-         System.out.println(contString("abcab"));
+         towerOfHanoi(3,"A","B","C");
 
     }
 }

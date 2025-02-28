@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Backtracking",
+      "request": "launch",
+      "mainClass": "Backtracking",
+      "projectName": "Dsa solution_d9f5f2ff"
+    },
+    {
+      "type": "java",
       "name": "Recursion",
       "request": "launch",
       "mainClass": "Recursion",

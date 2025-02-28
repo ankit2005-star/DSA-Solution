@@ -4,14 +4,14 @@
     "recursion",
     "patterns",
     "java programs",
-    "classeAndObject/classandobject/src",
+    "class and object/classandobject/src",
     "bitwiseOperator/src/com/ankit/bitwiseOperator",
     "array",
     "String",
-    "2darray",
     "Maths",
-    "class and object\\classandobject\\src",
-    "LL"
+    "LL",
+    "2darray",
+    "Backtracking"
   ],
   "java.project.referencedLibraries": [],
   "java.debug.settings.onBuildFailureProceed": true,

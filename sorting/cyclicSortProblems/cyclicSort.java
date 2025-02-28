@@ -26,16 +26,15 @@ public class cyclicSort {
              }
         }
     public static void main(String[] args){
-        Scanner scanner = new Scanner(System.in);
-        System.out.println("Enter the size of an array :");
-        int n = scanner.nextInt();
-        int[] arr = new int[n];
-        System.out.println("Enter the elements of an array: ");
-        takeInput(arr,n,scanner);
-        cyclic_Sort(arr,n);
-        printArray(arr);
-
-        scanner.close();
+        try (Scanner scanner = new Scanner(System.in)) {
+            System.out.println("Enter the size of an array :");
+            int n = scanner.nextInt();
+            int[] arr = new int[n];
+            System.out.println("Enter the elements of an array: ");
+            takeInput(arr,n,scanner);
+            cyclic_Sort(arr,n);
+            printArray(arr);
+        }
     }
     
 }
